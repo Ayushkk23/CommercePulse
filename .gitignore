@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# SQL Server local files
+*.mdf
+*.ldf
+*.bak
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
