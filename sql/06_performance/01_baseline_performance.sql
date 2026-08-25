@@ -1,0 +1,18 @@
+USE CommercePulse_DW;
+GO
+SET STATISTICS IO ON;
+SET STATISTICS TIME ON;
+SELECT StoreKey,SUM(SalesAmount) AS TotalRevenue
+FROM FactSales
+GROUP BY StoreKey;
+GO
+SET STATISTICS IO OFF;
+SET STATISTICS TIME OFF;
+
+
+USE CommercePulse_DW;
+GO
+SELECT StoreKey,SUM(SalesAmount) AS TotalRevenue
+FROM FactSales
+GROUP BY StoreKey;
+GO
