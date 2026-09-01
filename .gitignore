@@ -12,3 +12,15 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Power BI temporary files
+*.pbi.cache
+*.pbi.local
+
+# Temporary / log files
+*.tmp
+*.log
+
+# Python cache
+__pycache__/
+*.pyc

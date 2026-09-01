@@ -1,0 +1,52 @@
+{
+  "name": "CommercePulse Executive Blue",
+  "dataColors": [
+    "#163A5F",
+    "#2F6B9A",
+    "#4C8CCB",
+    "#7BAED6",
+    "#A8C7E2",
+    "#D7E6F2",
+    "#2E7D6F",
+    "#E59F3A",
+    "#B85C5C",
+    "#6B7280"
+  ],
+  "good": "#2E7D6F",
+  "neutral": "#E59F3A",
+  "bad": "#B85C5C",
+  "maximum": "#2F6B9A",
+  "center": "#7BAED6",
+  "minimum": "#D7E6F2",
+  "null": "#D1D5DB",
+  "background": "#F7F9FC",
+  "foreground": "#163A5F",
+  "secondaryBackground": "#E8EEF5",
+  "tableAccent": "#2F6B9A",
+  "firstLevelElements": "#163A5F",
+  "secondLevelElements": "#4B5563",
+  "thirdLevelElements": "#E8EEF5",
+  "fourthLevelElements": "#9CA3AF",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#163A5F"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#163A5F"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#163A5F"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#4B5563"
+    }
+  }
+}
